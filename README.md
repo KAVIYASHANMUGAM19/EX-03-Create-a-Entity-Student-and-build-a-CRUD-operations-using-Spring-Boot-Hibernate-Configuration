@@ -1,6 +1,6 @@
 # EXP 03-Entity-Student-and-build-a-CRUD-operations-using-Spring-Boot-Hibernate-Configuration
-### Name: Mopuri Ankitha
-### Register Number: 212223040117
+### Name: KAVIYA S
+### Register Number: 212223040090
 ## AIM:
 To develop a Spring Boot application that performs CRUD (Create, Read, Update, Delete) operations on a Student entity using Spring Data JPA (Hibernate).
 
