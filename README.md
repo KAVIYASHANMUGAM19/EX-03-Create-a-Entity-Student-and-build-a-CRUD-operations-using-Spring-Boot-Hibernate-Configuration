@@ -6,7 +6,7 @@ To develop a Spring Boot application that performs CRUD (Create, Read, Update, D
 
 ## ALGORITHM:
 Create Spring Boot Project
-
+ 
 Add dependencies: Spring Web, Spring Data JPA, H2 Database or MySQL, Spring Boot DevTools
 
 Configure application.properties
